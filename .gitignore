@@ -1,7 +1,7 @@
 *.gem
 *.sublime-project
 *.sublime-workspace
-vendor
+#vendor
 .bundle
 .DS_Store
 .jekyll-metadata
