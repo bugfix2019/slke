@@ -1,10 +1,11 @@
 ---
 title: "Laptop Buying Guide for University Students in Sri Lanka"
 tags:
-    - Mobile Phones
+    - Laptops
     - Price Comparisons
     - Feature Comparisons
     - Top Lists
+    - Uni Education
 excerpt: "According to our survey among university students throughout the country, 
 these are the criteria that we recommend you to look for when buying a laptop 
 for your university/college work."
@@ -249,7 +250,7 @@ the best performance over the time. <br><br>
 
 ### 👨🏻‍💻 Best Laptops For Programming: Apple Macbook Pro, Lenovo Thinkpad, HP Elitebook/Envy
 
-### 👨🏻‍💼 Best Business laptop: Lenovo Thinkpad,
+### 👨🏻‍💼 Best Business Laptop: Lenovo Thinkpad
 
 ### 🏋🏻‍♂️ Best Light-weight Laptop: Apple Macbook Air
 
