@@ -1,5 +1,5 @@
 ---
-title: "Best Banks for Personal Finance Needs in Sri Lanka"
+title: "Best Banks in Sri Lanka for Personal Banking"
 tags:
     - Personal Finance
     - Top Lists

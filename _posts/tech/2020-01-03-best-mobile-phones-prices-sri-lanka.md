@@ -1,5 +1,5 @@
 ---
-title: "Best Phones in Sri Lanka for 2020 (with Prices & Feature Comparisons)"
+title: "Best Mobile Phones in Sri Lanka for 2020 (with Prices & Feature Comparisons)"
 tags:
     - Mobile Phones
     - Price Comparisons
