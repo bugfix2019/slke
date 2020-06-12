@@ -7,9 +7,10 @@ tags:
 excerpt: "According to our survey among personal banking users 
 throughout the country, 
 these are the best banks loved by people right now in Sri Lanka."
-classes: wide
 header:
-  overlay_color: "#263238"
+    overlay_image: /assets/images/backgrounds/christoph-theisinger-9PPYa3LK6II-unsplash.jpg
+    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+    caption: "📸 [*Unsplash*](https://unsplash.com/photos/9PPYa3LK6II)"
 ---
 
 Personal finance is all about managing your income, expenses, savings, investments, 

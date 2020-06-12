@@ -6,7 +6,9 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
-  - title: "Terms"
+  - title: "Terms & Conditions"
     url: /terms/
+  - title: "Privacy Policy"
+    url: /privacy-policy/
   - title: "Sitemap"
     url: /sitemap/

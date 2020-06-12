@@ -11,7 +11,9 @@ these are the criteria that we recommend you to look for when buying a laptop
 for your university/college work."
 classes: wide
 header:
-  overlay_color: "#263238"
+    overlay_image: /assets/images/backgrounds/christoph-theisinger-9PPYa3LK6II-unsplash.jpg
+    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+    caption: "📸 [*Unsplash*](https://unsplash.com/photos/9PPYa3LK6II)"
 ---
 
 Most state and private degree programs in Sri Lanka are designed with an unofficial 
